@@ -1,1 +1,51 @@
+[
+  {
+    "title": "شرح أساسيات الرياضيات",
+    "description": "شرح مفصل لأهم القواعد والأساسيات في مادة الرياضيات للمبتدئين.",
+    "category": "العلوم",
+    "icon": "calculate_outlined",
+    "contributor": "علي أحمد",
+    "downloadLink": "https://docs.google.com/document/d/1Xy_Jp9E0BvT2g8rF_Qz7Q2g8rF_Qz7Q2g8rF_Qz7Q"
+  },
+  {
+    "title": "مقدمة في الفيزياء الحديثة",
+    "description": "تعرف على أهم المفاهيم والنظريات في عالم الفيزياء الحديثة.",
+    "category": "العلوم",
+    "icon": "science_outlined",
+    "contributor": "فاطمة محمد",
+    "downloadLink": "https://docs.google.com/document/d/1Xy_Jp9E0BvT2g8rF_Qz7Q2g8rF_Qz7Q2g8rF_Qz7Q"
+  },
+  {
+    "title": "كتابة مقال باللغة الإنجليزية",
+    "description": "دليل شامل لكتابة مقال أكاديمي احترافي باللغة الإنجليزية.",
+    "category": "الآداب",
+    "icon": "menu_book_outlined",
+    "contributor": "نور خالد",
+    "downloadLink": "https://docs.google.com/document/d/1Xy_Jp9E0BvT2g8rF_Qz7Q2g8rF_Qz7Q2g8rF_Qz7Q"
+  },
+  {
+    "title": "مبادئ البرمجة بلغة بايثون",
+    "description": "دليل خطوة بخطوة لتعلم أساسيات البرمجة باستخدام لغة بايثون.",
+    "category": "هندسة البرمجيات",
+    "icon": "computer_outlined",
+    "contributor": "أحمد محمود",
+    "downloadLink": "https://docs.google.com/document/d/1Xy_Jp9E0BvT2g8rF_Qz7Q2g8rF_Qz7Q2g8rF_Qz7Q"
+  },
+  {
+    "title": "أساسيات الرسم الهندسي",
+    "description": "تعلم كيفية استخدام الأدوات الهندسية لرسم أشكال دقيقة.",
+    "category": "الفنون الجميلة",
+    "icon": "architecture_outlined",
+    "contributor": "ريما سعيد",
+    "downloadLink": "https://docs.google.com/document/d/1Xy_Jp9E0BvT2g8rF_Qz7Q2g8rF_Qz7Q2g8rF_Qz7Q"
+  },
+  {
+    "title": "فن الخط العربي",
+    "description": "دليل مبسط لتعلم الخطوط العربية الأساسية وجمالياتها.",
+    "category": "الفنون الجميلة",
+    "icon": "brush_outlined",
+    "contributor": "يوسف جمال",
+    "downloadLink": "https://docs.google.com/document/d/1Xy_Jp9E0BvT2g8rF_Qz7Q2g8rF_Qz7Q2g8rF_Qz7Q"
+  }
+]
 
